@@ -1,4 +1,4 @@
-## Medstar Internal Medicine Handbook
+## Internal Medicine Handbook
 
 ### Getting Started
 
