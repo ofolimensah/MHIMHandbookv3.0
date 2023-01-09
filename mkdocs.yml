@@ -2,25 +2,14 @@ site_name: MHIM
 site_url: https://mhim_handbook.com
 
 repo_name: ofolimensah/MHIMHandbookv3
-repo_url: https://ofolimensah.github.io/MHIMHandbookv3.0/
+
 
 site_author: Internal Medicine Residents 2022-2023
 
 docs_dir: 'docs'
 
-markdown_extensions:
-  - abbr
-  - admonition
-  - attr_list
-  - def_list
-  - footnotes
-  - md_in_html
-
 nav:
     - Home: index.md 
-    - Cardiovascular: Cardiovascular.md
-    - Gastroenterology: Gastroenterology.md
-    - Respiratory: Respiratory.md 
 
 
 theme:
